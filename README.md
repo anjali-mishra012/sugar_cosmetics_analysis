@@ -1,1 +1,5 @@
 # sugar_cosmetics_analysis
+Sugar Cosmetics is one of India’s fastest-growing premium beauty brands, founded in 2015 by Vineeta Singh and Kaushik Mukherjee. Known for its bold identity and high-performance makeup, Sugar focuses on creating products that suit diverse Indian skin tones and modern beauty preferences.
+The brand follows a strong digital-first strategy, driven by influencer marketing, data-based campaigns, and a vibrant online community. Over the years, Sugar has expanded from a purely D2C brand to an omnichannel presence with more than 45,000 retail touchpoints across India.
+Sugar’s product range includes lipsticks, foundations, eyeliners, compacts, blushes, and skincare essentials — all designed to be cruelty-free, long-lasting, and trend-driven. Its bold packaging, consistency in branding, and strong engagement with millennials and Gen-Z make it a standout leader in the Indian beauty space.
+Today, Sugar Cosmetics represents the spirit of confidence, inclusivity, and modern Indian beauty, combining creativity with data-backed marketing strategies to drive growth.
